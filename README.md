@@ -1,7 +1,4 @@
-y
-==============================
-
-Exploratory analysis of patent data
+# Exploratory analysis of patent data
 
 Project Organization
 ------------
