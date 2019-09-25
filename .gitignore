@@ -4,6 +4,8 @@ __pycache__/
 
 # C extensions
 *.so
+mysqldb_team.config
+*.config
 
 # Distribution / packaging
 .Python
