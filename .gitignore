@@ -5,7 +5,10 @@ __pycache__/
 # C extensions
 *.so
 mysqldb_team.config
-*config
+
+#Config files
+*.config
+mysqldb_team.config
 
 # Distribution / packaging
 .Python
@@ -83,6 +86,7 @@ target/
 /data/raw/
 /data/external/
 /data/interim/
+
 /data
 /data/processed
 

@@ -51,7 +51,7 @@ TBA
 |inpadoc_family_id|<class 'numpy.float64'>| more complex type of family (captures 'priority networks')  |
 |int_phase|<class 'float'>|  Is the application in the international phase? |
 |internat_appln_id|<class 'numpy.float64'>| PCT international application  |
-|invt_seq_nr|<class 'numpy.float64'>| 1 to n = inventor, 0 = non inventor|
+|invt_seq_nr|<class 'numpy.float64'>| 1 to n = inventor, 0=non inventor|
 |ipc|<class 'float'>| IPC subclass  |
 |ipc_maingroup_symbol|<class 'float'>| IPC subclass or main group  |
 |ipr_type|<class 'float'>|  Type of IPR - could be a patent of invention or utility model |
