@@ -5,7 +5,6 @@ __pycache__/
 # C extensions
 *.so
 mysqldb_team.config
-*.config
 
 #Config files
 *.config
@@ -87,7 +86,9 @@ target/
 /data/raw/
 /data/external/
 /data/interim/
-/data/processed/
+
+/data
+/data/processed
 
 # Mac OS-specific storage files
 .DS_Store
