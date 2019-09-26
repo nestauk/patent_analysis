@@ -4,6 +4,8 @@ __pycache__/
 
 # C extensions
 *.so
+mysqldb_team.config
+*config
 
 # Distribution / packaging
 .Python
@@ -81,6 +83,8 @@ target/
 /data/raw/
 /data/external/
 /data/interim/
+/data
+/data/processed
 
 # Mac OS-specific storage files
 .DS_Store
